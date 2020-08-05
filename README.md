@@ -1,2 +1,2 @@
-LeetCode记录
-从两数之和开始
+## Learing JavaScript Data Structures and Algorithms Record
+- LeetCode
