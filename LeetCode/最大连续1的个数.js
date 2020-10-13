@@ -32,4 +32,6 @@ var findMaxConsecutiveOnes = function(nums) {
  * 得到
  * 1.在取最大值时，可使用 Math.max() ，更加方便操作
  * 2.apply()的作用不仅仅局限于改变 this 指向，还可以将 ([param1,param2,param3]) 转换成 (param1,param2,param3)
+ * 3.[1,2,3,45,6].join('-') -> '1-2-3-45-6'
+ * 4.'1-2-3-45-6'.split('-') -> ['1','2','3','45','6']  特别注意split后数组的每一项都为字符串
  */
