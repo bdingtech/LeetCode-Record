@@ -3,8 +3,6 @@
     - LeetCode record
 - Cases
     -  Examples of data structures
-
----
 Book Recommend
 - 《 Learning JavaScript Data Structures and Algorithms 》
 ---
@@ -21,7 +19,7 @@ Book Recommend
 <tbody>
 <tr>
 <td>数组的遍历</td>
-<td><del>485</del>、495、414、628</td>
+<td><del>485</del>、<del>495</del>、414、628</td>
 </tr>
 <tr>
 <td>统计数组中的元素</td>
