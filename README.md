@@ -19,7 +19,7 @@ Book Recommend
 <tbody>
 <tr>
 <td>数组的遍历</td>
-<td><del>485</del>、<del>495</del>、414、628</td>
+<td><del>485</del>、<del>495</del>、<del>414</del>、628</td>
 </tr>
 <tr>
 <td>统计数组中的元素</td>
