@@ -1,4 +1,5 @@
 ## Learing JavaScript Data Structures and Algorithms Record
+两道leetcode，风雨无阻
 - LeetCode
     - LeetCode record
 - Cases
