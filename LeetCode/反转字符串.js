@@ -23,3 +23,24 @@ var reverseString = function (s) {
         [s[left], s[right]] = [s[right], s[left]] //作为工具使用
     }
 };
+
+/**
+ * 递归解法
+ * @param {character[]} s
+ * @return {void} Do not return anything, modify s in-place instead.
+ */
+var reverseString = function (s) {
+
+    let swap = (start, end) => {
+        if (start >= end) {
+            return
+        }
+        let temp = s[start]
+        s[start] = s[end]
+        s[end] = temp
+        swap(start + 1, end - 1)
+
+    }
+    swap(0, s.length - 1)
+    return s
+};
